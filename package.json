@@ -1,0 +1,15 @@
+{
+  "name": "bot_fazenda_v1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "m_vndc e gpteco",
+  "license": "ISC",
+  "description": "Bot para gerenciamento de pedidos da fazenda Barba Branca",
+  "dependencies": {
+    "discord.js": "^14.18.0"
+  }
+}
